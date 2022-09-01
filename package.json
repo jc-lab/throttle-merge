@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jclab-joseph/throttle-merge.git"
+    "url": "git+https://github.com/jc-lab/throttle-merge.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jclab-joseph/throttle-merge/issues"
+    "url": "https://github.com/jc-lab/throttle-merge/issues"
   },
-  "homepage": "https://github.com/jclab-joseph/throttle-merge#readme",
+  "homepage": "https://github.com/jc-lab/throttle-merge#readme",
   "description": "",
   "devDependencies": {
     "@types/jest": "^24.0.19",
