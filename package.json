@@ -7,6 +7,10 @@
     "build": "tsc",
     "test": "jest"
   },
+  "files": [
+    "README.md",
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jc-lab/throttle-merge.git"
